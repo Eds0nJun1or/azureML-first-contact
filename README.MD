@@ -9,15 +9,15 @@ Este repositório foi criado para apresentar minha primeira experiência com a f
 
 ## Resumo do Modelo
 
-![modelo](prints/model-properties.png)
+![modelo](model-properties.png)
 
 ## Métricas do Modelo
 
-![modelo](prints/metrics.png)
+![modelo](metrics.png)
 
 ## Análise do Modelo
 
-![modelo](prints/graphics.png)
+![modelo](graphics.png)
 
 ## Requisitos
 
